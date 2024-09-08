@@ -15,7 +15,7 @@
 
 3. run ```pnpm dev:hosts``` in another terminal
 
-![](./docs/demo.png)
+![](./docs/demo.jpg)
 
 ### Advanced Demo
 We have added a Demo to show the combination of `Vite + Vue + Pinia + Vue Router + Element Plus`.
